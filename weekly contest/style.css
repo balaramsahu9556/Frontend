@@ -1,0 +1,40 @@
+body{
+    background-color: #000000;
+    text-decoration: white;
+ }
+ h1{
+     color: #fff;
+ Font-family: Inter;
+ Font-style: Regular;
+ Font-size: 64px;
+ Line-height: 77px;
+ Line-height: 100%;
+ box-align: Left;
+ vertical-align: Top;
+ }
+ label{
+     color: #fff;
+     Font-family: Inter;
+ Font-style: Light;
+ Font-size: 24px;
+ Line-height: 29px;
+ Line-height: 100%;
+ box-align: Left;
+ vertical-align: Top;
+ 
+ }
+ button{
+    color: #000000;
+    Font-family: Inter;
+    Font-style: Light;
+    Font-size: 24px;
+    Line-height: 29px;
+    Line-height: 100%;
+    text-align: Left;
+    Vertical-align: Top;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
